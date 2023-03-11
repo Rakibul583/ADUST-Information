@@ -1,0 +1,20 @@
+.section{
+    height: 200px;
+    border: solid rgb(255, 0, 85);
+    border-radius: 5px;
+    box-shadow: 50px 20px 80px greenyellow;
+    margin: 5px;
+}
+.name1 img{
+    width: 30%;
+}
+.name1{
+    width: 20%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+table,th,tr,td{
+    border: 2px solid rgb(53, 58, 70);
+    margin: auto;
+}
